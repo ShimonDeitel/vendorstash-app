@@ -1,0 +1,40 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Vendorstash Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Expiration reminders and total remaining value dashboard",
+              "displayName": "Vendorstash Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "vendorstash.pro",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Vendorstash Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
